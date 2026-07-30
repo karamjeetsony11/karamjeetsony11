@@ -45,9 +45,8 @@ Less "can I build this backend" and more "can I reason about it under failure." 
 - Observability isn't an afterthought bolted on before launch — if you can't see it, you don't actually know it works.
 
 <br/>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aayush4532&theme=dark" referrerpolicy="no-referrer" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aayush4532&theme=dark" />
 </p>
 
 <p align="center">
