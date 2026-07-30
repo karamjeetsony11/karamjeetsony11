@@ -1,8 +1,9 @@
-# Karamjeet Sony
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=0AA5FF&center=true&vCenter=true&width=720&lines=Backend+Engineer;Go+%7C+Distributed+Systems;Microservices+at+Scale;DTU+CSE+%2727" />
+  <img src="./assets/banner.png" alt="banner" width="100%" />
 </p>
+
+<h1 align="center">Karamjeet Sony</h1>
+<p align="center"><sub>Backend Engineer · Distributed Systems · Delhi Technological University '27</sub></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/Karamjeet_Sony">LinkedIn</a> ·
@@ -11,72 +12,45 @@
   <a href="mailto:karamjeetsony8449@gmail.com">Email</a>
 </p>
 
----
+<br/>
 
-## About
+I build backend systems that stay correct when things go wrong — not just when the demo runs clean. Most of my attention goes to the boundary conditions: two writers racing for the same row, a node dying mid-request, a queue backing up under load. The interesting engineering is almost never in the happy path.
 
-Backend-focused engineer interested in **distributed systems, microservices, and high-performance backend architectures**. I care about correctness, scalability, and building systems that survive real-world traffic.
+B.Tech CSE, Delhi Technological University (2023–2027) · New Delhi, India
 
-* **B.Tech CSE**, Delhi Technological University (2023–2027)
-* Based in New Delhi, India
-* Current focus: Go, system design, Distributed Systems
+<br/>
 
----
+### Where my attention is going
 
-## 2026 Focus
+Less "can I build this backend" and more "can I reason about it under failure." That means spending real time on the primitives underneath the frameworks — what a consistency guarantee actually costs you, how a queue behaves when a consumer falls behind, what a client should see when a service is degraded rather than down.
 
-* Build production-grade **microservice architectures**
-* Deepen expertise in **Go for distributed systems**
-* Design and implement **fault-tolerant backend systems**
-* Contribute to infrastructure-focused open source
-* Prepare for backend / systems engineering roles
+<br/>
 
----
+### Stack
 
-## Core Skills
+| | |
+|---|---|
+| **Languages** | Go · Python · C++ · TypeScript |
+| **Backend** | Go (`net/http`, gRPC) · REST · message queues · service discovery |
+| **Systems** | consistency models · caching · load balancing · rate limiting · fault tolerance · observability |
+| **Data** | PostgreSQL · MongoDB · Redis · MySQL |
+| **Infra** | Docker · Kubernetes · AWS · Terraform · GitHub Actions |
 
-### Languages
+<br/>
 
-Go · Python · C++ · JavaScript · TypeScript
+### How I think about the work
 
-### Backend & Microservices
+- A simple system that scales beats a clever one that impresses in a design review.
+- I want the trade-off a tool is making before I adopt it, not after it fails in production.
+- An abstraction should earn its place. Most don't until you've hit the same problem twice.
+- Observability isn't an afterthought bolted on before launch — if you can't see it, you don't actually know it works.
 
-Go (net/http, gRPC) · REST APIs · gRPC · Message Queues · Service Discovery
+<br/>
 
-### Distributed Systems Concepts
-
-Consistency Models · Caching · Load Balancing · Rate Limiting · Fault Tolerance · Observability
-
-### Datastores
-
-PostgreSQL · Redis · MongoDB · MySQL
-
-### DevOps & Infra
-
-Docker · Kubernetes · AWS · Terraform · GitHub Actions
----
-
-## Engineering Philosophy
-
-* Prefer simple systems that scale over complex systems that impress
-* Understand trade-offs before choosing tools
-* Build things close to the metal when learning
-
-> "Strong systems come from clear thinking, not excessive abstractions."
-
----
-
-## GitHub Stats
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=aayush4532&theme=dark"
-    referrerpolicy="no-referrer"
-  />
+  <img src="https://streak-stats.demolab.com?user=aayush4532&theme=dark" referrerpolicy="no-referrer" />
 </p>
 
-If you’re working on backend-heavy systems, infrastructure, or distributed architectures, I’m always open to thoughtful discussions.
-
-
-
-
-
+<p align="center">
+  <sub>Open to conversations on backend systems, infrastructure, and distributed architectures.</sub>
+</p>
