@@ -2,7 +2,6 @@
   <img src="./assets/banner.png" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Karamjeet Sony</h1>
 <p align="center"><sub>Backend Engineer · Distributed Systems · Delhi Technological University '27</sub></p>
 
 <p align="center">
