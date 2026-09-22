@@ -13,7 +13,7 @@
 
 <br/>
 
-I build backend systems that stay correct when things go wrong — not just when the demo runs clean. Most of my attention goes to the boundary conditions: two writers racing for the same row, a node dying mid-request, a queue backing up under load. The interesting engineering is almost never in the happy path.
+I build backend systems that stay correct when things go wrong, not just when the demo runs clean. Most of my attention goes to the boundary conditions: two writers racing for the same row, a node dying mid-request, a queue backing up under load. The interesting engineering is almost never in the happy path.
 
 B.Tech CSE, Delhi Technological University (2023–2027) · New Delhi, India
 
@@ -21,7 +21,7 @@ B.Tech CSE, Delhi Technological University (2023–2027) · New Delhi, India
 
 ### Where my attention is going
 
-Less "can I build this backend" and more "can I reason about it under failure." That means spending real time on the primitives underneath the frameworks — what a consistency guarantee actually costs you, how a queue behaves when a consumer falls behind, what a client should see when a service is degraded rather than down.
+Less "can I build this backend" and more "can I reason about it under failure." That means spending real time on the primitives underneath the frameworks, what a consistency guarantee actually costs you, how a queue behaves when a consumer falls behind, what a client should see when a service is degraded rather than down.
 
 <br/>
 
@@ -42,7 +42,7 @@ Less "can I build this backend" and more "can I reason about it under failure." 
 - A simple system that scales beats a clever one that impresses in a design review.
 - I want the trade-off a tool is making before I adopt it, not after it fails in production.
 - An abstraction should earn its place. Most don't until you've hit the same problem twice.
-- Observability isn't an afterthought bolted on before launch — if you can't see it, you don't actually know it works.
+- Observability isn't an afterthought bolted on before launch, if you can't see it, you don't actually know it works.
 
 <br/>
 <p align="center">
